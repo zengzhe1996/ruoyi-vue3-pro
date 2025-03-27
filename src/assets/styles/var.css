@@ -1,0 +1,9 @@
+:root {
+  --theme-color: #2a61ff;
+  --theme-sub-color: rgba(42, 97, 255, 0.6);
+  --theme-success-color: #00c48d;
+
+  --theme-menu-text-color: #ffffff;
+  --theme-menu-bg-color: rgba(42, 97, 255, 0.2);
+  --theme-menu-bg-hover-color: var(--theme-sub-color);
+}
