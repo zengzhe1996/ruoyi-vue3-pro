@@ -7,6 +7,7 @@ import 'element-plus/dist/index.css'
 import 'element-plus/theme-chalk/dark/css-vars.css'
 import locale from 'element-plus/es/locale/lang/zh-cn'
 
+import 'virtual:uno.css'
 import '@/assets/styles/var.css'
 import '@/assets/styles/index.scss' // global css
 
